@@ -1,2 +1,1 @@
 # Flux
-HTML,CSS,JAVASCRİPTİ
